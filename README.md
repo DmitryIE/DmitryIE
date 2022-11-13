@@ -1,16 +1,19 @@
-### Hi there 👋
+### Пройденные курсы и обучающие программы
 
-<!--
-**DmitryIE/DmitryIE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [Java-разработка для начинающих (Нетология)](https://cat.2035.university/rall/course/11144/?orgs=1369)
+- [Квесты JavaRush.ru](https://javarush.ru/quests)
+- [Spring - Полный курс. Boot, Hibernate, Security, REST (SwiftBook)](https://swiftbook.org/courses/438)
 
-Here are some ideas to get you started:
+### Сертификаты
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Диплом о профессиональной переподготовке - Java разработчик. Профстандарт: Разработчик Web и мультимедийных приложений
+- [Сертификат о прохождении обучения JAVA](https://github.com/DmitryIE/DmitryIE/blob/main/Сertificate%20JAVA.pdf)
+- Сертификат о прохождении курса «Spring - Полный курс. Boot, Hibernate, Security, REST»
+
+### Основные проекты с учебных курсов
+- [Курсовая работа «Менеджер личных финансов»](https://github.com/DmitryIE/Personal_Finance_Manager)
+- [Курсовая работа «Менеджер задач»](https://github.com/DmitryIE/Task_Manager)
+- [Дипломная работа «Поисковая система»](https://github.com/DmitryIE/search-final-diplom)
+
+### Контакты
+[Telegram](https://t.me/dmitryIvE)
