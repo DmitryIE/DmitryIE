@@ -11,6 +11,7 @@
 - Сертификат о прохождении курса «Spring - Полный курс. Boot, Hibernate, Security, REST»
 
 ### Основные проекты с учебных курсов
+- [CRUD-проект "Цифровой учет книг в библиотеке" (Spring, PostgreSQL, Thymeleaf)](https://github.com/DmitryIE/Digital_library_Spring_CRUD)
 - [Курсовая работа «Менеджер личных финансов»](https://github.com/DmitryIE/Personal_Finance_Manager)
 - [Курсовая работа «Менеджер задач»](https://github.com/DmitryIE/Task_Manager)
 - [Дипломная работа «Поисковая система»](https://github.com/DmitryIE/search-final-diplom)
