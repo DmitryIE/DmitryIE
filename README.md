@@ -17,5 +17,5 @@
 - [Дипломная работа «Поисковая система»](https://github.com/DmitryIE/search-final-diplom)
 
 ### Контакты
-[Telegram](https://t.me/dmitryIvE) <br>
+[Telegram](https://t.me/dmitryIvE)  
 [Linkedin](https://linkedin.com/in/дмитрий-егерев-942342259)
