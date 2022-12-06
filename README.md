@@ -12,10 +12,11 @@
 
 ### Основные проекты с учебных курсов
 - [CRUD-проект «Цифровой учет книг в библиотеке» (Spring, PostgreSQL, Thymeleaf)](https://github.com/DmitryIE/Digital_library_Spring_CRUD)
+- [CRUD-проект «Цифровой учет книг в библиотеке» (Предыдущий проект с использованием Spring Data JPA, Hibernate + новый функционал)](https://github.com/DmitryIE/Digital_library_CRUD_Hibernate_SpringDataJPA)
 - [Курсовая работа «Менеджер личных финансов»](https://github.com/DmitryIE/Personal_Finance_Manager)
 - [Курсовая работа «Менеджер задач»](https://github.com/DmitryIE/Task_Manager)
 - [Дипломная работа «Поисковая система»](https://github.com/DmitryIE/search-final-diplom)
-
+- 
 ### Контакты
 [Telegram](https://t.me/dmitryIvE)  
 [Linkedin](https://linkedin.com/in/дмитрий-егерев-942342259)
