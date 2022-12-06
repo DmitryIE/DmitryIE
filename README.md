@@ -16,7 +16,7 @@
 - [Курсовая работа «Менеджер личных финансов»](https://github.com/DmitryIE/Personal_Finance_Manager)
 - [Курсовая работа «Менеджер задач»](https://github.com/DmitryIE/Task_Manager)
 - [Дипломная работа «Поисковая система»](https://github.com/DmitryIE/search-final-diplom)
-- 
+ 
 ### Контакты
 [Telegram](https://t.me/dmitryIvE)  
 [Linkedin](https://linkedin.com/in/дмитрий-егерев-942342259)
