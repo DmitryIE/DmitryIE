@@ -8,7 +8,7 @@
 
 - Диплом о профессиональной переподготовке - Java разработчик. Профстандарт: Разработчик Web и мультимедийных приложений
 - [Сертификат о прохождении обучения JAVA](https://github.com/DmitryIE/DmitryIE/blob/main/Сertificate%20JAVA.pdf)
-- Сертификат о прохождении курса «Spring - Полный курс. Boot, Hibernate, Security, REST»
+- [Сертификат о прохождении курса «Spring - Полный курс. Boot, Hibernate, Security, REST»](https://github.com/DmitryIE/DmitryIE/blob/main/Certificate%20Spring.pdf)
 
 ### Основные проекты с учебных курсов
 - [CRUD-проект «Цифровой учет книг в библиотеке» (Spring, PostgreSQL, Thymeleaf)](https://github.com/DmitryIE/Digital_library_Spring_CRUD)
