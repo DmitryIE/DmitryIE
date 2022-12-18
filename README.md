@@ -21,3 +21,6 @@
 ### Контакты
 [Telegram](https://t.me/dmitryIvE)  
 [Linkedin](https://linkedin.com/in/дмитрий-егерев-942342259)
+
+### Резюме
+[Резюме на Google-диске]()
