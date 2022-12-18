@@ -13,6 +13,7 @@
 ### Основные проекты с учебных курсов
 - [CRUD-проект «Цифровой учет книг в библиотеке» (Spring, PostgreSQL, Thymeleaf)](https://github.com/DmitryIE/Digital_library_Spring_CRUD)
 - [CRUD-проект «Цифровой учет книг в библиотеке» (Предыдущий проект с использованием Spring Data JPA, Hibernate + новый функционал)](https://github.com/DmitryIE/Digital_library_CRUD_Hibernate_SpringDataJPA)
+- [SpringRestAPI-проект «REST API сервис для метеорологического датчика»](https://github.com/DmitryIE/Sensor_of_temperature_Spring_REST_API)
 - [Курсовая работа «Менеджер личных финансов»](https://github.com/DmitryIE/Personal_Finance_Manager)
 - [Курсовая работа «Менеджер задач»](https://github.com/DmitryIE/Task_Manager)
 - [Дипломная работа «Поисковая система»](https://github.com/DmitryIE/search-final-diplom)
