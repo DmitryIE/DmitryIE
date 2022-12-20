@@ -23,4 +23,4 @@
 [Linkedin](https://linkedin.com/in/дмитрий-егерев-942342259)
 
 ### Резюме
-[Резюме на Google-диске]()
+[Резюме на Google-диске](https://docs.google.com/document/d/1vX1x-6M0vJGIfKo1wyKJz5p3sKannQnS)
