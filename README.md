@@ -18,9 +18,9 @@
 
 ### Основные проекты
 - [Проект «Анализ графика отпусков сотрудников» (Spring, Stream API, PostgreSQL, Thymeleaf, Hibernate, JUnit)](https://github.com/DmitryIE/Vacations_Spring)
+- [SpringRestAPI-проект «REST API сервис для метеорологического датчика»](https://github.com/DmitryIE/Sensor_of_temperature_Spring_REST_API)
 - [CRUD-проект «Цифровой учет книг в библиотеке» (Spring, PostgreSQL, Thymeleaf)](https://github.com/DmitryIE/Digital_library_Spring_CRUD)
 - [CRUD-проект «Цифровой учет книг в библиотеке» (Предыдущий проект с использованием Spring Data JPA, Hibernate + новый функционал)](https://github.com/DmitryIE/Digital_library_CRUD_Hibernate_SpringDataJPA)
-- [SpringRestAPI-проект «REST API сервис для метеорологического датчика»](https://github.com/DmitryIE/Sensor_of_temperature_Spring_REST_API)
 - [проект «Менеджер личных финансов»](https://github.com/DmitryIE/Personal_Finance_Manager)
 - [проект «Поисковая система»](https://github.com/DmitryIE/search-final-diplom)
 
