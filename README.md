@@ -32,8 +32,7 @@
 
 ### Сертификаты
 
-- Диплом о профессиональной переподготовке - Java разработчик. Профстандарт: Разработчик Web и мультимедийных приложений (в процессе доставки)
-- [Сертификат о прохождении обучения JAVA](https://github.com/DmitryIE/DmitryIE/blob/main/Сertificate%20JAVA.pdf)
+- [Диплом о профессиональной переподготовке - Разработчик на языке Java](https://github.com/DmitryIE/DmitryIE/blob/main/Qualification%20JAVA.pdf)
 - [Сертификат о прохождении курса «Spring - Полный курс. Boot, Hibernate, Security, REST»](https://github.com/DmitryIE/DmitryIE/blob/main/Certificate%20Spring.pdf)
  
 ### Контакты
